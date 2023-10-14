@@ -42,3 +42,8 @@ console.log(
   'Solution 1 - brute force method: ',
   bruteForceMethod([3, 4, 9, 6, 1])
 );
+
+/**
+ * Solution 2: The idea is to divide the array into two parts
+ *
+ */
