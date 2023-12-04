@@ -46,4 +46,4 @@ function fibSearch(arr, target) {
  */
 let arr = [10, 22, 35, 40, 45, 50, 80, 82, 85, 90, 100, 235];
 let target = 235;
-console.log(fibSearch(arr, 0));
+console.log(fibSearch(arr, target));
